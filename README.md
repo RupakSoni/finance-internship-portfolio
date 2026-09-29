@@ -1,5 +1,6 @@
-# Rupak Kumar Soni — Finance Internship Portfolio
+# Rupak Soni|MBA Candidate | IIM Kashipur | Aspiring Investment Banking & Finance Professional
 
+Core Areas: Financial Modelling • Valuation • Investment Analysis • M&A • Financial Statement Analysis • Ratio Analysis • DCF • Comparable Companies
 Finance internship portfolio covering financial modelling, valuation, investment analysis, M&A, financial statement analysis and strategic research.
 > **Note:** The workbooks in this repository are the original task files supplied for the internship work. The repository is intended as a portfolio/learning archive. Any company data, assumptions, source links and conclusions should be read in the context of the respective workbook.
 
