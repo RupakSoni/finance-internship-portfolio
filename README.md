@@ -1,7 +1,6 @@
 # Rupak Kumar Soni — Finance Internship Portfolio
 
-A structured portfolio of financial analysis, valuation, investment modelling and M&A work completed during my finance internship.
-
+Finance internship portfolio covering financial modelling, valuation, investment analysis, M&A, financial statement analysis and strategic research.
 > **Note:** The workbooks in this repository are the original task files supplied for the internship work. The repository is intended as a portfolio/learning archive. Any company data, assumptions, source links and conclusions should be read in the context of the respective workbook.
 
 ## Internship Work — Task Overview
